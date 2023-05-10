@@ -8,5 +8,8 @@ float32 cur_angle
 float32 tar_vel
 float32 tar_dist 
 
+bool fv2_lc_left
+bool fv2_lc_right
+
 Lane[] coef 
 
