@@ -25,7 +25,7 @@ set(msg_files
 
 rosidl_generate_interfaces(${PROJECT_NAME}
  ${msg_files}
- DEPENDENCIES geometry_msgs std_msgs
+ DEPENDENCIES geometry_msgs std_msgs 
 )
 
 install(TARGETS

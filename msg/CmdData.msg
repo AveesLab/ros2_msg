@@ -8,8 +8,15 @@ float32 cur_angle
 float32 tar_vel
 float32 tar_dist 
 
+bool lv_lc_left
+bool fv1_lc_left
 bool fv2_lc_left
+
+bool lv_lc_right
+bool fv1_lc_right
 bool fv2_lc_right
+
+int8 center_select
 
 Lane[] coef 
 
