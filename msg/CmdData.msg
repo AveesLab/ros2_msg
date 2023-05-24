@@ -17,6 +17,9 @@ bool lv_lc_right
 bool fv1_lc_right
 bool fv2_lc_right
 
+bool lc_right_flag
+bool lc_left_flag
+
 int8 center_select
 float32 target_x
 float32 target_y
