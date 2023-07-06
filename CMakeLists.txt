@@ -18,9 +18,12 @@ set(msg_files
   "msg/Lrc2ocr.msg"
   "msg/Lrc2xav.msg"
   "msg/Xav2lrc.msg"
-  "msg/CmdData.msg"
   "msg/Lane.msg"
   "msg/Obj2xav.msg"
+  "msg/Lane2xav.msg"
+  "msg/Xav2lane.msg"
+  "msg/Cmd2xav.msg"
+  "msg/Xav2cmd.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
