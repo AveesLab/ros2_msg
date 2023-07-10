@@ -1,3 +1,2 @@
-float32[] center_pt
-
+float32 min_dist
 
