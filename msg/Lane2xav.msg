@@ -8,4 +8,7 @@ float32[] e_values
 float32 k1
 float32 k2
 
+float32 est_dist
+float32 est_vel
+
 Lane[] coef
