@@ -1,3 +1,6 @@
+float64 stamp_sec
+float64 stamp_usec
+
 float32 cur_angle
 float32 cur_angle2
 

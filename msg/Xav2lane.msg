@@ -9,3 +9,8 @@ uint32 y
 uint32 w
 uint32 h
 
+string r_name
+uint32 rx
+uint32 ry
+uint32 rw
+uint32 rh
