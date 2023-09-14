@@ -15,3 +15,5 @@ float32 est_dist
 float32 est_vel
 
 Lane[] coef
+
+bool wroi_flag
