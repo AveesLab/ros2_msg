@@ -33,9 +33,10 @@ float32 fv1_r_est_vel
 float32 fv2_r_est_vel
 
 uint8 lv_bbox_ready
-uint8 fv1_bbox_ready
-uint8 fv2_bbox_ready
-
 uint8 lv_r_bbox_ready
+
+uint8 fv1_bbox_ready
 uint8 fv1_r_bbox_ready
+
+uint8 fv2_bbox_ready
 uint8 fv2_r_bbox_ready
